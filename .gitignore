@@ -1,0 +1,14 @@
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+*.log
+*.tmp
+
+/bin/
+/src/.vs/
+/src/Demo/
